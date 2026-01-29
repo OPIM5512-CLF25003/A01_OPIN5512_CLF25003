@@ -12,7 +12,7 @@ print(df.head())
 print(df.shape)
 
 # you can save the boxplot...
-
+#code for box plot
 import matplotlib.pyplot as plt
 import os
 
